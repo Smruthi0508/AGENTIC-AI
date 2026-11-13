@@ -1,0 +1,23 @@
+[
+  {"id": "food1", "category": "Food & Dining", "tip": "Set a weekly cap on food delivery orders. Delivery fees, platform charges and packaging make the same meal cost noticeably more than cooking or eating in."},
+  {"id": "food2", "category": "Food & Dining", "tip": "Keep a few cheap, quick meals at home for busy days. Most delivery orders happen when nothing is ready to eat."},
+  {"id": "food3", "category": "Food & Dining", "tip": "Check delivery apps for monthly passes or free-delivery thresholds, but only subscribe if you already order often enough to save."},
+  {"id": "groc1", "category": "Groceries", "tip": "Plan the week's groceries in one bigger shop and use a list. Many small quick-commerce orders add up through delivery and handling fees."},
+  {"id": "groc2", "category": "Groceries", "tip": "Buy staples like rice, dal and oil in bulk from a supermarket or local store, and keep quick delivery for emergencies."},
+  {"id": "trans1", "category": "Transport", "tip": "Use a monthly bus or metro pass if you commute on most days. It is usually much cheaper than paying per ride."},
+  {"id": "trans2", "category": "Transport", "tip": "Share rides or choose pooled options for regular routes, and save cabs for late-night or urgent trips."},
+  {"id": "shop1", "category": "Shopping", "tip": "Add items to the cart and wait 48 hours before paying. Many impulse purchases lose their appeal in that time."},
+  {"id": "shop2", "category": "Shopping", "tip": "Set a fixed monthly shopping budget and move the money into a separate account or UPI app when the month starts."},
+  {"id": "shop3", "category": "Shopping", "tip": "Before buying clothes or gadgets, check what you already own. Compare prices across two apps and ignore fake discount tags."},
+  {"id": "ent1", "category": "Entertainment", "tip": "Review your subscriptions every month and cancel the ones you did not use. Rotate one streaming service at a time instead of paying for several."},
+  {"id": "ent2", "category": "Entertainment", "tip": "Look for student offers and shared family plans for music and video services."},
+  {"id": "ent3", "category": "Entertainment", "tip": "Set an entertainment limit per month for movies and events, and book weekday shows, which are often cheaper."},
+  {"id": "bill1", "category": "Bills & Utilities", "tip": "Compare mobile recharge plans once a year. A longer validity plan often costs less per month."},
+  {"id": "bill2", "category": "Bills & Utilities", "tip": "Turn off appliances you are not using. Even small changes can reduce an electricity bill over a few months."},
+  {"id": "health1", "category": "Health", "tip": "Ask for generic medicines where your doctor agrees. They usually cost much less than branded ones."},
+  {"id": "edu1", "category": "Education", "tip": "Wait for sale periods on online courses and check whether your college or a free resource already covers the topic."},
+  {"id": "tran1", "category": "Transfers", "tip": "Write down who you lent money to and follow up. Untracked small transfers to friends quietly add up."},
+  {"id": "rent1", "category": "Rent", "tip": "If rent is a big share of your budget, compare sharing options or locations that cut commute cost, since rent is your largest fixed cost."},
+  {"id": "gen1", "category": "Other", "tip": "Follow a simple split such as needs, wants and savings, and move your savings out as soon as money comes in, rather than saving what is left."},
+  {"id": "gen2", "category": "Other", "tip": "Review your top five merchants every month. Most overspending hides in a few repeat habits."}
+]
