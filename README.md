@@ -1,3 +1,4 @@
+
 # 💸 Finora
 ### Your bank statement, turned into a clearer picture of your money.
 
@@ -141,3 +142,5 @@ Gemini explains the tool results in plain language
 - 🧪 Sample statement data is synthetic and intended for demonstration.
 - 🌐 Gemini requests require internet access, a valid API key, and a model available to your account.
 - 💡 Insights are general budgeting information, **not financial advice**.
+# AGENTIC-AI
+
