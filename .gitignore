@@ -1,0 +1,31 @@
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# Generated vector database
+vectorstore/
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# Generated presentation
+PaperPilot_Presentation*.pptx
+
+# Generated text outputs
+paper_summary.txt
+viva_questions.txt
+
+# IDE settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db

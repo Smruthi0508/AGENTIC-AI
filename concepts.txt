@@ -1,0 +1,40 @@
+1. Recurrent Neural Networks (RNNs)
+Explanation: RNNs process input and output sequences one step at a time.
+Importance: The paper identifies sequential computation as a limitation that the Transformer aims to overcome.
+
+2. Transformer Architecture
+Explanation: The Transformer is a sequence transduction model based entirely on attention mechanisms.
+Importance: It replaces recurrent processing with attention-based computation.
+
+3. Encoder-Decoder Architecture
+Explanation: The Transformer has an encoder and a decoder, each containing six identical layers in the base model.
+Importance: It provides the overall structure for transforming input sequences into output sequences.
+
+4. Scaled Dot-Product Attention
+Explanation: It calculates query-key similarity, scales the result, applies softmax, and uses the resulting weights to combine values.
+Importance: It is the fundamental attention operation used by the Transformer.
+
+5. Multi-Head Attention
+Explanation: It uses multiple parallel attention heads to capture information from different representation subspaces.
+Importance: The base Transformer uses eight attention heads.
+
+6. Self-Attention
+Explanation: It allows positions in a sequence to connect with other positions without recurrent processing.
+Importance: It enables the Transformer to model relationships between sequence positions.
+
+7. Position-Wise Feed-Forward Networks
+Explanation: These networks use two linear transformations with a ReLU activation between them.
+Importance: They process the representations produced by the attention sub-layers.
+
+8. Positional Encoding
+Explanation: Sinusoidal positional encodings are added to token embeddings to provide information about token positions.
+Importance: They provide sequence-order information to a model without recurrence.
+
+9. Residual Connections and Layer Normalization
+Explanation: The Transformer uses residual connections followed by layer normalization around its sub-layers.
+Importance: These are important components of the Transformer encoder and decoder layers.
+
+10. Masked Self-Attention
+Explanation: The decoder masks future positions so that a position cannot attend to subsequent output positions.
+Importance: It prevents the decoder from using future target tokens during prediction.
+
